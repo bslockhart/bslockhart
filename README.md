@@ -1,3 +1,4 @@
-### Hi there 👋
+![Mock Up](./assets/images/Happy-Halloween-Featured-Image.jpeg)
+## Hi there 👋
 
-## Profile is being updated.
+### Happy Halloween 🎃🎃🎃
