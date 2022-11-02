@@ -1,5 +1,9 @@
 ![Mock Up](./assets/images/MockUp.png)
-## Hi there 👋
+## Merry Meet 🧙🏻‍♂️
+
+<h2 align="center">
+    I'm Brian, a full stack web developer student working on acquiring the skills needed to pursue a career in web development.
+</h2>
 
 <br>
  
