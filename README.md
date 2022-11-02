@@ -1,4 +1,4 @@
-![Mock Up](./assets/images/Happy-Halloween-Featured-Image.jpeg)
+![Mock Up](./assets/images/MockUp.png)
 ## Hi there 👋
 
 ### Happy Halloween 🎃🎃🎃
