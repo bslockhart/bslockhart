@@ -7,17 +7,13 @@
 
 <br>
  
-🔭 I’m working toward a career in web development
+🌱 I’m currently growing my skills in Web Development.
 
-🌱 I’m currently growing my skills in
+🤝 I’m looking to collaborate on more open source projects in the near future.
 
-🤝 I’m looking to collaborate on more open source projects in the near future
+🧠 I'm interested in learning more about technology.
 
-🧠 I'm interested in learning more about
-
-🧐 I'm always seeking feedback to help improve my skills
-
-🔥 Fun fact:
+🧐 I'm always seeking feedback to help improve my skills and grow.
 
 <br>
 
